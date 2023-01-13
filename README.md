@@ -8,6 +8,8 @@ You are managing the builders that builds the lego building.
 1) +worker
 2) +income
 3) +platform
+
+
 -There are 3 levels
 1) Eiffel Tower
 2) Empire State
